@@ -1,0 +1,4 @@
+public/apidoc
+node_modules
+task.sqlite
+package-lock.json
